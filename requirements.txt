@@ -1,0 +1,14 @@
+# Vector Database & Embeddings
+qdrant-client>=1.7.0
+fastembed>=0.2.0
+
+# Speech-to-Text & API Client
+sarvamai>=0.1.0
+requests>=2.31.0
+pydantic>=2.5.0
+
+# Data Processing & Utilities
+numpy>=1.26.0
+pandas>=2.1.0
+tqdm>=4.66.0
+python-dotenv>=1.0.0
